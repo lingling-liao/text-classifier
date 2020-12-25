@@ -17,7 +17,7 @@ docker run --gpus all -p 6006:6006 -p 8888:8888 -v [local]:/tf -itd tensorflow/t
 
 ## Download IMDB dataset
 
-https://...
+https://drive.google.com/drive/folders/1ztXoiVb4TxHMtR2eBy5pjnJsTjkhNsWu?usp=sharing
 
 ## Using BERT
 
