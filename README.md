@@ -21,19 +21,19 @@ https://...
 
 ## Using BERT
 
-Install TensorFlow Hub
+Install tensorflow-hub:
 
 ```
 pip install tensorflow-hub==0.9.0
 ```
 
-Install TensorFlow Text (A dependency of the preprocessing for BERT inputs)
+Install tensorflow-text (A dependency of the preprocessing for BERT inputs):
 
 ```
 pip install tensorflow-text==2.3.0
 ```
 
-Install TF Model Official
+Install tf-models-official:
 
 ```
 pip install tf-models-official==2.3.0
