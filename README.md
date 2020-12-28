@@ -38,3 +38,11 @@ Install tf-models-official:
 ```
 pip install tf-models-official==2.3.0
 ```
+
+## Training a model
+
+Running the command:
+
+```
+python train_text_classifier.py
+```
